@@ -76,3 +76,15 @@ Please review the attached mockup and let me know if there are any changes or ad
 Looking forward to your feedback.
 
 Best regards, Arindam
+
+# Email #3: Mock-Up Feedback
+Arindam Das!
+
+I hope you're having a great day. I appreciate the mock-up that you created for us. It was clear that you put a lot of effort and creativity into the design, and we were all very impressed with the end result.
+Additionally, I wanted to thank you for the project update that you sent us. It was great to see the progress that has been made, and I appreciate the clear and concise manner in which you presented the information.
+That being said, I did make a few changes to the mock-up to better align with our specific needs. I have attached the ‘mock-up changes’ to this email so that you can take a look and see the changes that were made.
+I'm excited to see how this project progresses and the end tool that you create based on the feedback.
+
+Best regards,
+Mathew
+Business Analyst | Shield Insurance
