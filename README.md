@@ -48,3 +48,31 @@ Business Analyst | Shield Insurance
 | 15 | Analyze expected settlement behavior across different age groups | Supports risk assessment and claim expectation planning | High |
 | 16 | Analyze preferred sales channels across age groups | Helps align channel strategy with customer demographics | Low |
 | 17 | Analyze policy selection patterns across age groups | Provides insight into product preferences among different age segments | High |
+
+# Email #2: Send project update and mockup to the client for confirmation
+Description: As part of the project team, you will be responsible for sending the latest project update and mockup to the client for confirmation. This will involve ensuring that the update and mockup accurately reflect the project's progress and are presented in a clear and professional manner. Once sent, you will be responsible for following up with the client to ensure that their feedback is received and addressed in a timely manner. This task requires excellent communication skills and attention to detail to ensure that the project stays on track and the client's expectations are met.
+
+FYI: You can provide an update on the project status in the designated box, and attach the mockup in PDF format to your submission..
+# Solution:
+File name: Mock_Up
+Tool: MS-Powerpoint
+
+Hello Mathew,
+
+Sharing the latest update on the pilot dashboard mockup as discussed.
+
+I have completed the initial mockup covering the core requirements of the pilot project, structured into three sections:
+
+Executive Overview – Overall customer and revenue KPIs with trend analysis to provide a quick business snapshot.
+
+Sales Mode Analysis – Channel-wise customer and revenue contribution, sales mode trends, and age group vs sales mode performance to understand distribution and efficiency.
+
+Age Group Analysis – Customer and revenue distribution by age group along with expected settlement and preference analysis to support demographic-level insights.
+
+The mockup focuses on clear segmentation, consistent KPIs, and intuitive visual flow, keeping the pilot scope in mind. This is a high-level structure intended to validate alignment on metrics and layout before proceeding with detailed dashboard development.
+
+Please review the attached mockup and let me know if there are any changes or additional insights you would like to incorporate before moving to the next phase.
+
+Looking forward to your feedback.
+
+Best regards, Arindam
