@@ -86,5 +86,7 @@ That being said, I did make a few changes to the mock-up to better align with ou
 I'm excited to see how this project progresses and the end tool that you create based on the feedback.
 
 Best regards,
+
 Mathew
+
 Business Analyst | Shield Insurance
