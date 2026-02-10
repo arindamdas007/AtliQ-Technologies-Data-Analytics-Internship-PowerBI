@@ -55,7 +55,6 @@ Description: As part of the project team, you will be responsible for sending th
 FYI: You can provide an update on the project status in the designated box, and attach the mockup in PDF format to your submission..
 # Solution:
 File name: Mock_Up
-
 Tool: MS-Powerpoint
 
 Hello Mathew,
