@@ -29,21 +29,22 @@ Best regards,
 Mathew
 Business Analyst | Shield Insurance
 
-Sno	Feature	Comments	Priority
-1	Display overall customer count, total premium revenue, and daily growth for both customers and revenue	Provides a quick view of business size and day-to-day performance movement	High
-2	Track month-over-month percentage change across key business metrics	Helps identify growth patterns and performance shifts over time	High
-3	Classify customers into defined age brackets	Enables demographic-based analysis to understand customer behavior	High
-4	Show revenue distribution across cities and age groups	Identifies high-performing locations and profitable customer segments	High
-5	Show customer distribution across cities and age groups	Helps understand where customers are concentrated geographically and demographically	High
-6	Visualize customer count and daily customer growth trends on a monthly timeline	Helps monitor acquisition momentum and detect fluctuations in customer growth	Low
-7	Visualize revenue and daily revenue growth trends on a monthly timeline	Supports identification of revenue consistency and potential volatility	Low
-8	Provide a toggle to switch between customer and revenue trend visualizations	Allows flexible comparison of business growth dimensions	Low
-9	Enable filters for sales channel, age group, city, month, and policy	Supports focused and efficient data exploration	High
-10	Create a dedicated view for analyzing sales channels	Helps evaluate performance and impact of each sales channel	High
-11	Show percentage split of customers by sales channel	Identifies which channels are most effective in customer acquisition	High
-12	Show percentage split of revenue by sales channel	Highlights the most revenue-generating sales channels	High
-13	Show monthly trend of sales channel performance	Helps assess how sales channels evolve over time	Low
-14	Create a dedicated view for age-based analysis	Enables deeper understanding of age-driven business impact	High
-15	Analyze expected settlement behavior across different age groups	Supports risk assessment and claim expectation planning	High
-16	Analyze preferred sales channels across age groups	Helps align channel strategy with customer demographics	Low
-17	Analyze policy selection patterns across age groups	Provides insight into product preferences among different age segments	High
+| Sno | Feature | Comments | Priority |
+|-----|---------|----------|----------|
+| 1 | Display overall customer count, total premium revenue, and daily growth for both customers and revenue | Provides a quick view of business size and day-to-day performance movement | High |
+| 2 | Track month-over-month percentage change across key business metrics | Helps identify growth patterns and performance shifts over time | High |
+| 3 | Classify customers into defined age brackets | Enables demographic-based analysis to understand customer behavior | High |
+| 4 | Show revenue distribution across cities and age groups | Identifies high-performing locations and profitable customer segments | High |
+| 5 | Show customer distribution across cities and age groups | Helps understand where customers are concentrated geographically and demographically | High |
+| 6 | Visualize customer count and daily customer growth trends on a monthly timeline | Helps monitor acquisition momentum and detect fluctuations in customer growth | Low |
+| 7 | Visualize revenue and daily revenue growth trends on a monthly timeline | Supports identification of revenue consistency and potential volatility | Low |
+| 8 | Provide a toggle to switch between customer and revenue trend visualizations | Allows flexible comparison of business growth dimensions | Low |
+| 9 | Enable filters for sales channel, age group, city, month, and policy | Supports focused and efficient data exploration | High |
+| 10 | Create a dedicated view for analyzing sales channels | Helps evaluate performance and impact of each sales channel | High |
+| 11 | Show percentage split of customers by sales channel | Identifies which channels are most effective in customer acquisition | High |
+| 12 | Show percentage split of revenue by sales channel | Highlights the most revenue-generating sales channels | High |
+| 13 | Show monthly trend of sales channel performance | Helps assess how sales channels evolve over time | Low |
+| 14 | Create a dedicated view for age-based analysis | Enables deeper understanding of age-driven business impact | High |
+| 15 | Analyze expected settlement behavior across different age groups | Supports risk assessment and claim expectation planning | High |
+| 16 | Analyze preferred sales channels across age groups | Helps align channel strategy with customer demographics | Low |
+| 17 | Analyze policy selection patterns across age groups | Provides insight into product preferences among different age segments | High |
