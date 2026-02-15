@@ -37,7 +37,7 @@ Good luck with this task! </body>
 
 # Week 3:
 ## Email #1: Feature List
-The task is to create a feature list based on the email provided below from the client and a sample feature list.The email contains project requirements which need to be analyzed and included in the feature list. The sample feature list available in the download section serves as a reference for the created feature list.The created feature list must capture all the mentioned features and include relevant details.
+<p align="justify">The task is to create a feature list based on the email provided below from the client and a sample feature list.The email contains project requirements which need to be analyzed and included in the feature list. The sample feature list available in the download section serves as a reference for the created feature list.The created feature list must capture all the mentioned features and include relevant details.</p>
 
 ## PILOT PROJECT REQUIREMENTS
 Dear Hemanand,<br>
