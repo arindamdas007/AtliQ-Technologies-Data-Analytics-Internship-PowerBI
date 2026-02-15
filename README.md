@@ -11,7 +11,9 @@ As a Data Analyst Intern, you will be working with our team of experienced profe
 
 The internship will be conducted virtually, and we will provide you with all the necessary tools and resources to help you succeed in your role. Please do not hesitate to reach out to us if you have any questions or concerns. We are here to support you and ensure that your virtual internship is a success.<br>
 
-Once again, congratulations on being selected for the Data Analyst Intern position. We look forward to working with you and wish you all the best during your internship.<br></p>
+Once again, congratulations on being selected for the Data Analyst Intern position. We look forward to working with you and wish you all the best during your internship.</p><br>
+
+Best regards,
 
 <h2> E-mail #1:</h2>
 
