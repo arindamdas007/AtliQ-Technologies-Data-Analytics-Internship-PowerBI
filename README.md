@@ -28,10 +28,10 @@ The HR dataset can be found in the file "attendance_data.csv". Your tasks are di
 
 <b>Task 1: Data Cleaning</b><br>
 
-Check for duplicates in the dataset and remove them.<br>
-Standardize the date values to the format YYYY-MM-DD and extract the month name and day type from them.<br>
-Remove any extra characters, such as special characters, from the employee ID values. Some IDs may contain a '@' character at the end, which can be cleaned and brought to a common format.<br>
-Standardize the capitalization of names. Convert all names to title case, which means capitalizing the first letter of each word.<br>
+<b>1.</b>Check for duplicates in the dataset and remove them.<br>
+<b>2.</b>Standardize the date values to the format YYYY-MM-DD and extract the month name and day type from them.<br>
+<b>3.</b>Remove any extra characters, such as special characters, from the employee ID values. Some IDs may contain a '@' character at the end, which can be cleaned and brought to a common format.<br>
+<b>4.</b>Standardize the capitalization of names. Convert all names to title case, which means capitalizing the first letter of each word.<br>
 Map the corresponding values in the status column with the given abbreviations:<br>
 <ul>
   <li>Work From Office → WFO</li>
@@ -41,7 +41,7 @@ Map the corresponding values in the status column with the given abbreviations:<
   <li>Paid Leave → PL</li>
   <li>Sick Leave → SL</li>
   <li>Weekly Off → WO</li>
-</ul><br>
+</ul>
 <b>Task 2: Ad Hoc aka Analysis</b><br><br>
 <b>1.</b> What is the total count of distinct employee names within the dataset?<br>
 <b>2.</b> Calculate the work-from-home (WFH %) percentage in the month of May.<br>
