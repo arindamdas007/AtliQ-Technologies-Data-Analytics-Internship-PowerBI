@@ -20,7 +20,41 @@ HR Specialist | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
 <h2> E-mail #1:</h2>
-<h3 align="center">HR Report</h3>
+<h3>HR Report</h3>
+<b></b>Arindam Das,</b><br>
+
+Sending you these tasks following up on our call.<br>
+
+The HR dataset can be found in the file "attendance_data.csv". Your tasks are divided into two parts: data cleaning and data analysis.<br>
+
+Task 1: Data Cleaning<br>
+
+Check for duplicates in the dataset and remove them.<br>
+Standardize the date values to the format YYYY-MM-DD and extract the month name and day type from them.<br>
+Remove any extra characters, such as special characters, from the employee ID values. Some IDs may contain a '@' character at the end, which can be cleaned and brought to a common format.<br>
+Standardize the capitalization of names. Convert all names to title case, which means capitalizing the first letter of each word.<br>
+Map the corresponding values in the status column with the given abbreviations:<br>
+Work From Office --> WFO<br>
+Work From Home --> WFH<br>
+Birthday Leave --> BL<br>
+Menstrual Leave --> ML<br>
+Paid Leave --> PL
+Sick Leave --> SL<br>
+Weekly Off --> WO<br><br>
+Task 2: Ad Hoc aka Analysis<br><br>
+
+<b>1.</b>What is the total count of distinct employee names within the dataset?<br>
+<b>2.</b>Calculate the work-from-home (WFH %) percentage in the month of May.<br>
+<b>3.</b>Determine which day of the week had the highest attendance percentage in the month of June.<br>
+<b>4.</b>Find out the number of employees who had a WFH percentage greater than 10% in the month of April.<br><br>
+You are free to use any tool of your preference, such as Pandas, Excel, PowerBI, etc., to complete this task.<br>
+
+If you have any follow-up questions on the task, you can ask your seniors here: [discord link]<br>
+
+But they are busy, try to solve it on your own as much as possible.<br>
+
+Good luck with your task!<br>
+
 # WEEK 2:
 ## E-mail #1: Create This Variance Report
 ### Variance Analysis
