@@ -10,7 +10,7 @@ Here is the detailed explanation of the task.
 
 You need to conduct variance analysis to compare benchmark data (benchmarks.csv) with their current data (fact_orders.csv). The goal of this analysis is to identify and quantify the differences or variations between the two datasets. Specifically, you will be comparing the order quantity and delivery quantity from the fact_orders.csv file with the benchmark data provided in the benchmarks.csv file.
 
-<b>Datasets:<b><br>
+<b>Datasets:</b><br>
 You will be provided with three datasets for this analysis:
 
 fact_orders.csv: Contains columns like order_id, order_placement_date, mmm_yy, customer_id, product_name, order_qty, and delivery_qty.
