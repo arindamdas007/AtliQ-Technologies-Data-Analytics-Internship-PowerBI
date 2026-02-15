@@ -42,7 +42,7 @@ Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
 ## Solution:
-File Name:Variance_analysis_soln <br>
+File Name: Variance_analysis_soln <br>
 Tool Used: Power BI <br>
 
 # Week 3:
