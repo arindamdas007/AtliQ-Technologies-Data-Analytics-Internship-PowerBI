@@ -26,7 +26,7 @@ Website: www.atliq.com
 Sending you these tasks following up on our call.<br>
 The HR dataset can be found in the file "attendance_data.csv". Your tasks are divided into two parts: data cleaning and data analysis.<br>
 
-Task 1: Data Cleaning<br>
+<b>Task 1: Data Cleaning</b><br>
 
 Check for duplicates in the dataset and remove them.<br>
 Standardize the date values to the format YYYY-MM-DD and extract the month name and day type from them.<br>
@@ -41,8 +41,8 @@ Map the corresponding values in the status column with the given abbreviations:<
   <li>Paid Leave → PL</li>
   <li>Sick Leave → SL</li>
   <li>Weekly Off → WO</li>
-</ul>
-Task 2: Ad Hoc aka Analysis<br><br>
+</ul><br>
+<b>Task 2: Ad Hoc aka Analysis</b><br><br>
 <b>1.</b> What is the total count of distinct employee names within the dataset?<br>
 <b>2.</b> Calculate the work-from-home (WFH %) percentage in the month of May.<br>
 <b>3.</b> Determine which day of the week had the highest attendance percentage in the month of June.<br>
