@@ -61,6 +61,11 @@ Best regards,<br>
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
+
+<h2> Solution:</h2>
+File Name: HR_report_attendance_soln <br>
+Tool Used: Power BI <br>
+
 # WEEK 2:
 ## E-mail #1: Create This Variance Report
 ### Variance Analysis
