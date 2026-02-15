@@ -37,8 +37,8 @@ Good luck with this task! </body>
 The task is to create a feature list based on the email provided below from the client and a sample feature list.The email contains project requirements which need to be analyzed and included in the feature list. The sample feature list available in the download section serves as a reference for the created feature list.The created feature list must capture all the mentioned features and include relevant details.
 
 ## PILOT PROJECT REQUIREMENTS
-Dear Hemanand,
-I hope this email finds you well. I’m summarizing the requirements for the pilot project as discussed in the last call.<br>
+Dear Hemanand,<br>
+I hope this email finds you well. I’m summarizing the requirements for the pilot project as discussed in the last call.<br><br>
 To begin, we would like to focus on understanding the number of customers we have and the total revenue we are generating. It would also be beneficial to track the daily revenue growth rate and daily customer growth rate to monitor our progress.<br><br>
 Monitoring changes in policies on a month-over-month basis is also important to identify trends and areas for improvement. It would be helpful to segment our customer base by age group and analyze revenue and customer numbers by city and age group.<br><br>
 To analyze trends in customer and revenue growth over time, it would be great to create a switch between revenue trend graphs and customer trend graphs. Additionally, using filters to analyze sales mode, age group, city, month, and policy ID would make the analysis more efficient.<br><br>
