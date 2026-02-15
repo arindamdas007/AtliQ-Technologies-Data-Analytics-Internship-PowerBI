@@ -21,7 +21,7 @@ Website: www.atliq.com
 
 <h2> E-mail #1:</h2>
 <h3>HR Report</h3>
-<b></b>Arindam Das,</b><br>
+<b>Arindam Das,</b><br>
 
 Sending you these tasks following up on our call.<br>
 The HR dataset can be found in the file "attendance_data.csv". Your tasks are divided into two parts: data cleaning and data analysis.<br>
