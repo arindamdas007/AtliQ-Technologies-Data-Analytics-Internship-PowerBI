@@ -1,8 +1,11 @@
 # AtliQ-Technologies-Data-Analytics-Internship-PowerBI
 End-to-end Data Analytics Virtual Internship project at AtliQ Technologies (Codebasics). Built Power BI dashboards for Shield Insurance covering revenue analysis, customer growth, sales mode performance, DAX metrics, data modeling, and business insights.
 
+# WEEK 1:
+## E-mail #1:
+
 # WEEK 2:
-## Email #1: Create This Variance Report
+## E-mail #1: Create This Variance Report
 ### Variance Analysis
 <b>Arindam Das,</b><br><br>
 Here is the detailed explanation of the task.
@@ -46,7 +49,7 @@ File Name: Variance_analysis_soln <br>
 Tool Used: Power BI <br>
 
 # Week 3:
-## Email #1: Feature List
+## E-mail #1: Feature List
 <p align="justify">The task is to create a feature list based on the email provided below from the client and a sample feature list.The email contains project requirements which need to be analyzed and included in the feature list. The sample feature list available in the download section serves as a reference for the created feature list.The created feature list must capture all the mentioned features and include relevant details.</p>
 
 ## PILOT PROJECT REQUIREMENTS
@@ -86,7 +89,7 @@ Business Analyst | Shield Insurance
 | 16 | Analyze preferred sales channels across age groups | Helps align channel strategy with customer demographics | Low |
 | 17 | Analyze policy selection patterns across age groups | Provides insight into product preferences among different age segments | High |
 
-## Email #2: Send project update and mockup to the client for confirmation
+## E-mail #2: Send project update and mockup to the client for confirmation
 <p align="justify">Description: As part of the project team, you will be responsible for sending the latest project update and mockup to the client for confirmation. This will involve ensuring that the update and mockup accurately reflect the project's progress and are presented in a clear and professional manner. Once sent, you will be responsible for following up with the client to ensure that their feedback is received and addressed in a timely manner. This task requires excellent communication skills and attention to detail to ensure that the project stays on track and the client's expectations are met.</p>
 
 FYI: You can provide an update on the project status in the designated box, and attach the mockup in PDF format to your submission..
@@ -114,7 +117,7 @@ Looking forward to your feedback.
 
 Best regards, Arindam
 
-## Email #3: Mock-Up Feedback
+## E-mail #3: Mock-Up Feedback
 Arindam Das!
 
 <p align="justify">I hope you're having a great day. I appreciate the mock-up that you created for us. It was clear that you put a lot of effort and creativity into the design, and we were all very impressed with the end result.
@@ -129,7 +132,7 @@ Mathew
 Business Analyst | Shield Insurance
 
 # WEEK 4:
-## Email #1: Dashboard Creation Task
+## E-mail #1: Dashboard Creation Task
 Arindam Das,
 
 I saw the response from Mathew and you did a good job there. As a next step, you will be creating a dashboard, and I want to give you some quick tips.
