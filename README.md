@@ -27,6 +27,9 @@ Here is a brief overview of the workflow for the task:
 Please ensure that you thoroughly analyze the datasets and provide a comprehensive report of the differences in the order quantity and delivered quantity between the benchmark data and the main data.<br>
 
 Attaching screenshots from a dummy report I created, which will give you a better idea of what it looks like and how the final output should be presented:
+<img width="789" height="430" alt="image" src="https://github.com/user-attachments/assets/e4e46d65-45ee-4817-b8d6-82b71c1d1cc2" />
+
+<img width="795" height="366" alt="image" src="https://github.com/user-attachments/assets/f278cbac-d06d-4d31-b962-ac21f03fe943" />
 
 Feel free to ask your seniors for any questions!
 
