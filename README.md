@@ -35,9 +35,9 @@ Attaching screenshots from a dummy report I created, which will give you a bette
 Feel free to ask your seniors for any questions!
 
 Good luck with this task!<br><br>
-Best regards,
+Best regards,<br>
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/378d3268-5180-4ac7-95e6-1790228879db" /><br>
-Hemanand Vadivel<br>
+<b>Hemanand Vadivel</b><br>
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
