@@ -58,7 +58,7 @@ Good luck with your task!<br>
 # WEEK 2:
 ## E-mail #1: Create This Variance Report
 ### Variance Analysis
-<b>Arindam Das,</b><br>
+<b>Arindam Das,</b>
 
 Here is the detailed explanation of the task.
 
@@ -170,7 +170,7 @@ Looking forward to your feedback.
 Best regards, Arindam
 
 ## E-mail #3: Mock-Up Feedback
-Arindam Das!
+<b>Arindam Das!</b>
 
 <p align="justify">I hope you're having a great day. I appreciate the mock-up that you created for us. It was clear that you put a lot of effort and creativity into the design, and we were all very impressed with the end result.
 Additionally, I wanted to thank you for the project update that you sent us. It was great to see the progress that has been made, and I appreciate the clear and concise manner in which you presented the information.
@@ -185,7 +185,7 @@ Business Analyst | Shield Insurance
 
 # WEEK 4:
 ## E-mail #1: Dashboard Creation Task
-Arindam Das,
+<b>Arindam Das,</b>
 
 I saw the response from Mathew and you did a good job there. As a next step, you will be creating a dashboard, and I want to give you some quick tips.
 
