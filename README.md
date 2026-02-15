@@ -110,4 +110,10 @@ Hemanand Vadivel<br>
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
+## Solution:
+
+# LETTER OF EXPERIENCE|INTERNSHIP:<br>
+![CB-VI-56-582526_page-0001](https://github.com/user-attachments/assets/f85986c7-ed9c-4e0c-8bbc-e5f4e5993226)
+
+
 
