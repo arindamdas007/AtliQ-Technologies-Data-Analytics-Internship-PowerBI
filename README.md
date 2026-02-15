@@ -49,11 +49,11 @@ Business Analyst | Shield Insurance
 | 16 | Analyze preferred sales channels across age groups | Helps align channel strategy with customer demographics | Low |
 | 17 | Analyze policy selection patterns across age groups | Provides insight into product preferences among different age segments | High |
 
-# Email #2: Send project update and mockup to the client for confirmation
+## Email #2: Send project update and mockup to the client for confirmation
 Description: As part of the project team, you will be responsible for sending the latest project update and mockup to the client for confirmation. This will involve ensuring that the update and mockup accurately reflect the project's progress and are presented in a clear and professional manner. Once sent, you will be responsible for following up with the client to ensure that their feedback is received and addressed in a timely manner. This task requires excellent communication skills and attention to detail to ensure that the project stays on track and the client's expectations are met.
 
 FYI: You can provide an update on the project status in the designated box, and attach the mockup in PDF format to your submission..
-# Solution:
+## Solution:
 File name: Mock_Up
 Tool: MS-Powerpoint
 
@@ -77,7 +77,7 @@ Looking forward to your feedback.
 
 Best regards, Arindam
 
-# Email #3: Mock-Up Feedback
+## Email #3: Mock-Up Feedback
 Arindam Das!
 
 I hope you're having a great day. I appreciate the mock-up that you created for us. It was clear that you put a lot of effort and creativity into the design, and we were all very impressed with the end result.
