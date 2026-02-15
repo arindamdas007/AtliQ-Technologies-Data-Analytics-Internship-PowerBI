@@ -24,9 +24,8 @@ I’m also attaching the data & metadata for your reference.
 
 Best regards,
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9f2fb2e0-79f1-40b4-a555-e03d04ac460b" />
-
-Mathew
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/9f2fb2e0-79f1-40b4-a555-e03d04ac460b" /><br>
+Mathew<br>
 Business Analyst | Shield Insurance
 
 | Sno | Feature | Comments | Priority |
