@@ -1,25 +1,49 @@
 # AtliQ-Technologies-Data-Analytics-Internship-PowerBI
 End-to-end Data Analytics Virtual Internship project at AtliQ Technologies (Codebasics). Built Power BI dashboards for Shield Insurance covering revenue analysis, customer growth, sales mode performance, DAX metrics, data modeling, and business insights.
 
+# WEEK 2:
+## Email #1: Create This Variance Report
+### Variance Analysis
+<body>Arindam Das,
+
+Here is the detailed explanation of the task.
+
+You need to conduct variance analysis to compare benchmark data (benchmarks.csv) with their current data (fact_orders.csv). The goal of this analysis is to identify and quantify the differences or variations between the two datasets. Specifically, you will be comparing the order quantity and delivery quantity from the fact_orders.csv file with the benchmark data provided in the benchmarks.csv file.
+
+Datasets:
+You will be provided with three datasets for this analysis:
+
+fact_orders.csv: Contains columns like order_id, order_placement_date, mmm_yy, customer_id, product_name, order_qty, and delivery_qty.
+dim_customers.csv: Contains columns like customer_id, customer_name, and city.
+benchmarks.csv: Contains columns like mmm_yy, customer_id, customer_name, city, total_order_quantity, and total_delivery_quantity.
+Workflow:
+Here is a brief overview of the workflow for the task:
+
+Review the benchmark data and the current data (fact_orders.csv).
+Metrics to compare between two files: Order quantity and Delivery quantity.
+Calculate the variance (absolute value) between the benchmark data and the current data for the identified metrics.
+Calculate the variance (in percentage) between the benchmark data and the current data for the identified metrics.
+Provide a complete report of the difference in numbers between the benchmark data and the main data.
+Please ensure that you thoroughly analyze the datasets and provide a comprehensive report of the differences in the order quantity and delivered quantity between the benchmark data and the main data.
+
+Attaching screenshots from a dummy report I created, which will give you a better idea of what it looks like and how the final output should be presented:
+
+Feel free to ask your seniors for any questions!
+
+Good luck with this task! </body>
+
 # Week 3:
 ## Email #1: Feature List
 The task is to create a feature list based on the email provided below from the client and a sample feature list.The email contains project requirements which need to be analyzed and included in the feature list. The sample feature list available in the download section serves as a reference for the created feature list.The created feature list must capture all the mentioned features and include relevant details.
 
 ## PILOT PROJECT REQUIREMENTS
 I hope this email finds you well. I’m summarizing the requirements for the pilot project as discussed in the last call.
-
 To begin, we would like to focus on understanding the number of customers we have and the total revenue we are generating. It would also be beneficial to track the daily revenue growth rate and daily customer growth rate to monitor our progress.
-
 Monitoring changes in policies on a month-over-month basis is also important to identify trends and areas for improvement. It would be helpful to segment our customer base by age group and analyze revenue and customer numbers by city and age group.
-
 To analyze trends in customer and revenue growth over time, it would be great to create a switch between revenue trend graphs and customer trend graphs. Additionally, using filters to analyze sales mode, age group, city, month, and policy ID would make the analysis more efficient.
-
 It would be valuable to have a separate page for sales mode analysis to better understand our customer demographics. We can calculate total customers and total revenue split percentages by sales mode and analyze the trend of sales mode over the month.
-
 Having a separate page for age group analysis would also be helpful to understand the impact of age groups on our business. We can analyze age group data to understand expected settlement, sales mode, and policy preference, which will help us make informed business decisions.
-
 We believe that this pilot project will help us gain valuable insights and build confidence in our collaboration. I would be happy to answer any questions that you may have.
-
 I’m also attaching the data & metadata for your reference.
 
 Best regards,
