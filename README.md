@@ -105,7 +105,7 @@ Tool Used: Power BI <br>
 <p align="justify">The task is to create a feature list based on the email provided below from the client and a sample feature list.The email contains project requirements which need to be analyzed and included in the feature list. The sample feature list available in the download section serves as a reference for the created feature list.The created feature list must capture all the mentioned features and include relevant details.</p>
 
 ## PILOT PROJECT REQUIREMENTS
-Dear Hemanand,<br>
+Dear Hemanand,<br><br>
 I hope this email finds you well. I’m summarizing the requirements for the pilot project as discussed in the last call.<br><br>
 To begin, we would like to focus on understanding the number of customers we have and the total revenue we are generating. It would also be beneficial to track the daily revenue growth rate and daily customer growth rate to monitor our progress.<br><br>
 Monitoring changes in policies on a month-over-month basis is also important to identify trends and areas for improvement. It would be helpful to segment our customer base by age group and analyze revenue and customer numbers by city and age group.<br><br>
