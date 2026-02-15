@@ -24,7 +24,6 @@ Website: www.atliq.com
 <b></b>Arindam Das,</b><br>
 
 Sending you these tasks following up on our call.<br>
-
 The HR dataset can be found in the file "attendance_data.csv". Your tasks are divided into two parts: data cleaning and data analysis.<br>
 
 Task 1: Data Cleaning<br>
@@ -59,7 +58,8 @@ Good luck with your task!<br>
 # WEEK 2:
 ## E-mail #1: Create This Variance Report
 ### Variance Analysis
-<b>Arindam Das,</b><br><br>
+<b>Arindam Das,</b><br>
+
 Here is the detailed explanation of the task.
 
 <p align="justify">You need to conduct variance analysis to compare benchmark data (benchmarks.csv) with their current data (fact_orders.csv). The goal of this analysis is to identify and quantify the differences or variations between the two datasets. Specifically, you will be comparing the order quantity and delivery quantity from the fact_orders.csv file with the benchmark data provided in the benchmarks.csv file.</p>
