@@ -66,11 +66,11 @@ Here is the detailed explanation of the task.
 
 <b>Datasets:</b><br>
 You will be provided with three datasets for this analysis:
-
-<b>1.</b> fact_orders.csv: Contains columns like order_id, order_placement_date, mmm_yy, customer_id, product_name, order_qty, and delivery_qty.<br>
-<b>2.</b> dim_customers.csv: Contains columns like customer_id, customer_name, and city.<br>
-<b>3.</b> benchmarks.csv: Contains columns like mmm_yy, customer_id, customer_name, city, total_order_quantity, and total_delivery_quantity.<br>
-
+<ul>
+<li> fact_orders.csv: Contains columns like order_id, order_placement_date, mmm_yy, customer_id, product_name, order_qty, and delivery_qty.</li>
+<li> dim_customers.csv: Contains columns like customer_id, customer_name, and city.</li>
+<li> benchmarks.csv: Contains columns like mmm_yy, customer_id, customer_name, city, total_order_quantity, and total_delivery_quantity.</li> 
+</ul>
 <b>Workflow:</b><br>
 Here is a brief overview of the workflow for the task:
 
