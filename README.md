@@ -23,7 +23,7 @@ Here is a brief overview of the workflow for the task:
 <b>2.</b> Metrics to compare between two files: Order quantity and Delivery quantity.<br>
 <b>3.</b> Calculate the variance (absolute value) between the benchmark data and the current data for the identified metrics.<br>
 <b>4.</b> Calculate the variance (in percentage) between the benchmark data and the current data for the identified metrics.<br>
-<b>5.</b> Provide a complete report of the difference in numbers between the benchmark data and the main data.<br>
+<b>5.</b> Provide a complete report of the difference in numbers between the benchmark data and the main data.<br><br>
 Please ensure that you thoroughly analyze the datasets and provide a comprehensive report of the differences in the order quantity and delivered quantity between the benchmark data and the main data.<br>
 
 Attaching screenshots from a dummy report I created, which will give you a better idea of what it looks like and how the final output should be presented:
