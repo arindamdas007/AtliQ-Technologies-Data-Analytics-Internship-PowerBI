@@ -4,7 +4,7 @@ End-to-end Data Analytics Virtual Internship project at AtliQ Technologies (Code
 # WEEK 2:
 ## Email #1: Create This Variance Report
 ### Variance Analysis
-<body><b></b>Arindam Das,</b>
+<b><body></b>Arindam Das,</b>
 
 Here is the detailed explanation of the task.
 
