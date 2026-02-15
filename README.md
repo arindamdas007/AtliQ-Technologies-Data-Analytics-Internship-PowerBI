@@ -49,11 +49,17 @@ Map the corresponding values in the status column with the given abbreviations:<
 <b>4.</b> Find out the number of employees who had a WFH percentage greater than 10% in the month of April.<br><br>
 You are free to use any tool of your preference, such as Pandas, Excel, PowerBI, etc., to complete this task.<br>
 
-If you have any follow-up questions on the task, you can ask your seniors here: [discord link]<br>
+If you have any follow-up questions on the task, you can ask your seniors.<br>
 
 But they are busy, try to solve it on your own as much as possible.<br>
 
 Good luck with your task!<br>
+
+Best regards,<br>
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/378d3268-5180-4ac7-95e6-1790228879db" /><br>
+<b>Hemanand Vadivel</b><br>
+Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
+Website: www.atliq.com
 
 # WEEK 2:
 ## E-mail #1: Create This Variance Report
