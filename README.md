@@ -2,7 +2,7 @@
 End-to-end Data Analytics Virtual Internship project at AtliQ Technologies (Codebasics). Built Power BI dashboards for Shield Insurance covering revenue analysis, customer growth, sales mode performance, DAX metrics, data modeling, and business insights.
 
 <h1> WEEK 1:</h1>
-<b>Data Analyst Internship Offer</b><br>
+<h2 align="center">Data Analyst Internship Offer</h2><br>
 Dear <b>Arindam Das</b>,<br>
 
 We are pleased to inform you that you have been selected as a Data Analyst Intern at our organization. We welcome you to our team and are excited to have you onboard!<br>
