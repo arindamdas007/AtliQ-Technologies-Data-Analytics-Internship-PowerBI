@@ -2,7 +2,7 @@
 End-to-end Data Analytics Virtual Internship project at AtliQ Technologies (Codebasics). Built Power BI dashboards for Shield Insurance covering revenue analysis, customer growth, sales mode performance, DAX metrics, data modeling, and business insights.
 
 <h1> WEEK 1:</h1>
-## E-mail #1:
+<h2> E-mail #1:</h2>
 
 # WEEK 2:
 ## E-mail #1: Create This Variance Report
