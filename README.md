@@ -5,15 +5,19 @@ End-to-end Data Analytics Virtual Internship project at AtliQ Technologies (Code
 <h2 align="center">Data Analyst Internship Offer</h2><br>
 Dear <b>Arindam Das</b>,<br><br>
 
-<p align="center">We are pleased to inform you that you have been selected as a Data Analyst Intern at our organization. We welcome you to our team and are excited to have you onboard!<br>
+We are pleased to inform you that you have been selected as a Data Analyst Intern at our organization. We welcome you to our team and are excited to have you onboard!<br>
 
 As a Data Analyst Intern, you will be working with our team of experienced professionals to analyze data, create reports, and provide insights that will help us make informed business decisions. Your work will be critical to the success of our organization, and we are confident that you will make a valuable contribution during your internship.<br>
 
 The internship will be conducted virtually, and we will provide you with all the necessary tools and resources to help you succeed in your role. Please do not hesitate to reach out to us if you have any questions or concerns. We are here to support you and ensure that your virtual internship is a success.<br>
 
-Once again, congratulations on being selected for the Data Analyst Intern position. We look forward to working with you and wish you all the best during your internship.</p><br>
+Once again, congratulations on being selected for the Data Analyst Intern position. We look forward to working with you and wish you all the best during your internship.<br><br>
 
-Best regards,
+Best regards,<br>
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/378d3268-5180-4ac7-95e6-1790228879db" /><br>
+<b>Krishna Patel</b><br>
+HR Specialist | AtliQ Technologies Pvt. Ltd.<br>
+Website: www.atliq.com
 
 <h2> E-mail #1:</h2>
 
