@@ -20,7 +20,7 @@ HR Specialist | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
 <h2> E-mail #1:</h2>
-
+<h3 align="center">HR Report</h3>
 # WEEK 2:
 ## E-mail #1: Create This Variance Report
 ### Variance Analysis
