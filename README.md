@@ -4,8 +4,7 @@ End-to-end Data Analytics Virtual Internship project at AtliQ Technologies (Code
 # WEEK 2:
 ## Email #1: Create This Variance Report
 ### Variance Analysis
-<b><body></b>Arindam Das,</b>
-
+<b><body></b>Arindam Das</b>,<br>
 Here is the detailed explanation of the task.
 
 You need to conduct variance analysis to compare benchmark data (benchmarks.csv) with their current data (fact_orders.csv). The goal of this analysis is to identify and quantify the differences or variations between the two datasets. Specifically, you will be comparing the order quantity and delivery quantity from the fact_orders.csv file with the benchmark data provided in the benchmarks.csv file.
