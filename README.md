@@ -86,7 +86,7 @@ Best regards,
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
-<b>🛠 Tool Used<b>: Microsoft Excel</b><br><br>
+<b>🛠 Tool Used</b>: Microsoft Excel<br><br>
 
 <h1>WEEK 2:</h1>
 <h2>E-mail #1: Create This Variance Report</h2>
