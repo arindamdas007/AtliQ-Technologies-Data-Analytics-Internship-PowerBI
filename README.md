@@ -91,7 +91,7 @@ Website: www.atliq.com
 <h1>WEEK 2:</h1>
 <h2>E-mail #1: Create This Variance Report</h2>
 <h3>Variance Analysis</h3>
-<b>Arindam Das,</b>
+<b>Arindam Das,</b><br><br>
 
 Here is the detailed explanation of the task.
 
