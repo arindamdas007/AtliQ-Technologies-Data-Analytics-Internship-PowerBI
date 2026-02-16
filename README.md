@@ -61,6 +61,21 @@ Best regards,<br>
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
+# E-mail #2:
+<h2>Data Normalization</h2><br>
+<b>Arindam Das,</b><br>
+
+Well done with the previous task. I have a new one for you.
+
+One of our client projects requires minor support. The dataset is currently in a de-normalized form, and we need your help to transform it into a normalized form.
+
+Your task will involve creating proper fact and dimension tables based on the dataset, which can be found in the "fact_order_lines.csv" file.
+
+Here are a few screenshots of the dataset to give you a better idea of what it looks like and how the final output should be presented:
+
+<b>Input Data</b>
+
+
 # WEEK 2:
 ## E-mail #1: Create This Variance Report
 ### Variance Analysis
