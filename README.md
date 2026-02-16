@@ -93,7 +93,7 @@ Website: www.atliq.com
 <h3>Variance Analysis</h3>
 <b>Arindam Das,</b><br><br>
 
-Here is the detailed explanation of the task.<br>
+Here is the detailed explanation of the task.<br><br>
 You need to conduct variance analysis to compare benchmark data (benchmarks.csv) with their current data (fact_orders.csv). The goal of this analysis is to identify and quantify the differences or variations between the two datasets. Specifically, you will be comparing the order quantity and delivery quantity from the fact_orders.csv file with the benchmark data provided in the benchmarks.csv file.<br>
 <b>Datasets:</b><br>
 You will be provided with three datasets for this analysis:
