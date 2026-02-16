@@ -63,7 +63,7 @@ Website: www.atliq.com
 
 <h2>E-mail #2:</h2>
 <h3>Data Normalization</h3>
-<b>Arindam Das,</b>
+<b>Arindam Das,</b><br><br>
 
 Well done with the previous task. I have a new one for you.
 
@@ -86,17 +86,17 @@ Best regards,
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
-<b>🛠 Tool Used<b>: Microsoft Excel</b><br>
+<b>🛠 Tool Used<b>: Microsoft Excel</b><br><br>
 
 <h1>WEEK 2:</h1>
 <h2>E-mail #1: Create This Variance Report</h2>
 <h3>Variance Analysis</h3>
 <b>Arindam Das,</b><br><br>
 
-Here is the detailed explanation of the task.<br><br>
-You need to conduct variance analysis to compare benchmark data (benchmarks.csv) with their current data (fact_orders.csv). The goal of this analysis is to identify and quantify the differences or variations between the two datasets. Specifically, you will be comparing the order quantity and delivery quantity from the fact_orders.csv file with the benchmark data provided in the benchmarks.csv file.<br>
+<b>Here is the detailed explanation of the task.</b><br><br>
+<p align="justify">You need to conduct variance analysis to compare benchmark data (benchmarks.csv) with their current data (fact_orders.csv). The goal of this analysis is to identify and quantify the differences or variations between the two datasets. Specifically, you will be comparing the order quantity and delivery quantity from the fact_orders.csv file with the benchmark data provided in the benchmarks.csv file.</p><br>
 <b>Datasets:</b><br>
-You will be provided with three datasets for this analysis:
+<b>You will be provided with three datasets for this analysis:</b>
 <ul>
 <li> fact_orders.csv: Contains columns like order_id, order_placement_date, mmm_yy, customer_id, product_name, order_qty, and delivery_qty.</li>
 <li> dim_customers.csv: Contains columns like customer_id, customer_name, and city.</li>
