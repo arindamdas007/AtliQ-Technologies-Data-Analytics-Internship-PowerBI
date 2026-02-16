@@ -63,7 +63,7 @@ Website: www.atliq.com
 
 <h2>E-mail #2:</h2>
 <h3>Data Normalization</h3>
-### Arindam Das,
+<b>Arindam Das,</b>
 
 Well done with the previous task. I have a new one for you.
 
