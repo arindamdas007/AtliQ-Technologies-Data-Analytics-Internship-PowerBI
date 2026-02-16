@@ -61,7 +61,7 @@ Best regards,<br>
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
-<h2>E-mail #2:</h2>h2>
+<h2>E-mail #2:</h2>
 <h3>Data Normalization</h3><br>
 <b>Arindam Das,</b><br>
 
@@ -73,7 +73,14 @@ Your task will involve creating proper fact and dimension tables based on the da
 
 Here are a few screenshots of the dataset to give you a better idea of what it looks like and how the final output should be presented:
 
-<b>Input Data</b>
+<b>Input Data</b><br>
+<img width="991" height="415" alt="image" src="https://github.com/user-attachments/assets/8de62c06-e123-4d97-af29-94072b857c56" /><br>
+<b>Output Data</b>
+<img width="723" height="450" alt="image" src="https://github.com/user-attachments/assets/bf160ab2-a2c2-4afc-8724-a8a2000fd686" /><br>
+<img width="724" height="532" alt="image" src="https://github.com/user-attachments/assets/70bc4847-38b8-4596-a369-9c74d4c4215b" /><br>
+Please complete this task within the next 2 days.
+
+
 
 
 # WEEK 2:
