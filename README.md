@@ -3,7 +3,7 @@ End-to-end Data Analytics Virtual Internship project at AtliQ Technologies (Code
 
 <h1> WEEK 1:</h1>
 <h2 align="center">Data Analyst Internship Offer</h2><br>
-Dear <b>Arindam Das</b> <br>,
+Dear <b>Arindam Das</b>, <br>
 
 We are pleased to inform you that you have been selected as a Data Analyst Intern at our organization. We welcome you to our team and are excited to have you onboard!<br>
 
