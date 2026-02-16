@@ -61,8 +61,8 @@ Best regards,<br>
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
-# E-mail #2:
-<h2>Data Normalization</h2><br>
+<h2>E-mail #2:</h2>h2>
+<h3>Data Normalization</h3><br>
 <b>Arindam Das,</b><br>
 
 Well done with the previous task. I have a new one for you.
