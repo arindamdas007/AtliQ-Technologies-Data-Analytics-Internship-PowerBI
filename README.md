@@ -62,7 +62,7 @@ Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
 <h2>E-mail #2:</h2>
-<h3>Data Normalization</h3><br>
+<h3>Data Normalization</h3>
 <b>Arindam Das,</b><br>
 
 Well done with the previous task. I have a new one for you.
