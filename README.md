@@ -88,6 +88,12 @@ Website: www.atliq.com
 
 <b>🛠 Tool Used</b>: Microsoft Excel<br><br>
 
+<h2>E-mail #2:</h2>
+<h3>Scrum Training</h3>
+Arindam Das,
+
+I’m forwarding the email from HR, in case it didn’t reach you.
+
 <h1>WEEK 2:</h1>
 <h2>E-mail #1: Create This Variance Report</h2>
 <h3>Variance Analysis</h3>
