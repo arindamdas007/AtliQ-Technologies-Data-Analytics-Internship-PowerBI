@@ -90,7 +90,7 @@ Website: www.atliq.com
 
 <h2>E-mail #3:</h2>
 <h3>Scrum Training</h3>
-<b>Arindam Das,</b><br>
+<b>Arindam Das,</b><br><br>
 
 I’m forwarding the email from HR, in case it didn’t reach you.<br><br>
 <p align="justify">As part of your internship, we will be covering the SCRUM methodology in software development. SCRUM is a widely-used agile methodology that helps teams collaborate effectively to deliver high-quality software products.</p>
