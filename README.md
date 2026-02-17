@@ -88,11 +88,20 @@ Website: www.atliq.com
 
 <b>🛠 Tool Used</b>: Microsoft Excel<br><br>
 
-<h2>E-mail #2:</h2>
+<h2>E-mail #3:</h2>
 <h3>Scrum Training</h3>
-Arindam Das,
+<b></b>Arindam Das,</b><br>
 
-I’m forwarding the email from HR, in case it didn’t reach you.
+I’m forwarding the email from HR, in case it didn’t reach you.<br><br>
+<p align="justify">As part of your internship, we will be covering the SCRUM methodology in software development. SCRUM is a widely-used agile methodology that helps teams collaborate effectively to deliver high-quality software products.</p><br>
+<p align="justify">To help you gain a thorough understanding of SCRUM, I am pleased to introduce you to the SCRUM Training Series, available at https://scrumtrainingseries.com/. This is a comprehensive online training program that covers all aspects of SCRUM, from its basics to advanced concepts.</p><br>
+<p align="justify">It is mandatory for you to complete the SCRUM Training Series as having a good understanding of it will make you a more valuable employee in the industry.</p><br><br>
+Good luck with your training!<br><br>
+Best regards,<br>
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/378d3268-5180-4ac7-95e6-1790228879db" /><br>
+<b>Hemanand Vadivel</b><br>
+Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
+Website: www.atliq.com
 
 <h1>WEEK 2:</h1>
 <h2>E-mail #1: Create This Variance Report</h2>
