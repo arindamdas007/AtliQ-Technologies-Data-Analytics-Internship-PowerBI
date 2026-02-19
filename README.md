@@ -76,8 +76,8 @@ Here are a few screenshots of the dataset to give you a better idea of what it l
 <b>Input Data</b><br>
 <p align="center"><img width="500" height="215" alt="image" src="https://github.com/user-attachments/assets/8de62c06-e123-4d97-af29-94072b857c56" /></p><br>
 <b>Output Data</b><br>
-<p align="center"><img width="723" height="450" alt="image" src="https://github.com/user-attachments/assets/bf160ab2-a2c2-4afc-8724-a8a2000fd686" /></p><br>
-<p align="center"><img width="724" height="532" alt="image" src="https://github.com/user-attachments/assets/70bc4847-38b8-4596-a369-9c74d4c4215b" /></p><br>
+<p align="center"><img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/bf160ab2-a2c2-4afc-8724-a8a2000fd686" /></p><br>
+<p align="center"><img width="500" height="240" alt="image" src="https://github.com/user-attachments/assets/70bc4847-38b8-4596-a369-9c74d4c4215b" /></p><br>
 Please complete this task within the next 2 days.<br><br>
 Best regards,
 
