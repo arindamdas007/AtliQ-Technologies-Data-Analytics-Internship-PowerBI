@@ -167,12 +167,12 @@ Tool Used: MySQL <br>
 
 I have a quick ad-hoc task for you.
 
-<p align="justify">One of our clients in the Network services domain is currently creating a weekly report manually. This process can be automated, and we can help them save time.</p><br>
-<p align="justify">I've provided you with two Excel sheets - "network_data.csv" and "activity_data.csv", containing data related to our client's network operations. Your task is to use Power Query to manipulate and transform the data from these files and create a new table that meets the specified format.</p><br>
-<p align="justify">To achieve the desired format, you'll need to use a variety of Power Query techniques, such as pivoting, transforming, merging, and manipulating headers.</p><br>
+<p align="justify">One of our clients in the Network services domain is currently creating a weekly report manually. This process can be automated, and we can help them save time.</p>
+<p align="justify">I've provided you with two Excel sheets - "network_data.csv" and "activity_data.csv", containing data related to our client's network operations. Your task is to use Power Query to manipulate and transform the data from these files and create a new table that meets the specified format.</p>
+<p align="justify">To achieve the desired format, you'll need to use a variety of Power Query techniques, such as pivoting, transforming, merging, and manipulating headers.</p>
 <b>Input Data</b><br>
 <p align="center"><img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/986a0c83-2085-4c3b-b609-cf8c50fb3e1c" /></p><br>
-<b>Output Data</b>b><br>
+<b>Output Data</b><br>
 <p align="center"><img width="500" height="202" alt="image" src="https://github.com/user-attachments/assets/f0fb27da-4c76-477b-9083-12a99e2d4c09" /></p><br>
 <p align="justify">Please complete this task as soon as possible. If you need any assistance, feel free to reach out to your seniors.</p><br>
 
