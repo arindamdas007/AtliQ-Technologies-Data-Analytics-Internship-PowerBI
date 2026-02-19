@@ -191,6 +191,25 @@ I’m sending the details to you as discussed in the call.<br>
 
 You need to create a presentation from the dashboard for our telecom client <b>'wavecon'</b>.<br>
 
+Your task is to analyze the dashboard and provide insights on a ppt that addresses the following questions:<br>
+ 1. What is the impact of the 5G launch on our revenue?
+ 2. Which KPI is underperforming after the 5G launch?
+ 3. After the 5G launch, which plans are performing well in terms of revenue? Which plans are not performing well?
+ 4. Is there any plan affected largely by the 5G launch? Should we continue or discontinue that plan?
+ 5. Is there any plan that is discontinued after the 5G launch? What is the reason for it?<br><br>
+These are just initial questions to help you get started, and you are free to come up with new insights based on your analysis. You can also play around with the dashboard to get better insights.<br>
+Of course, you can check with your seniors as usual.<br>
+<b>Preview of the dashboard:</b><br>
+<p align="justify"><img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/0bc29f85-2354-48db-9530-6785f6b86975" /></p><br>
+
+Looking forward to your best!<br>
+
+Best regards,<br>
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/378d3268-5180-4ac7-95e6-1790228879db" /><br>
+<b>Hemanand Vadivel</b><br>
+Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
+Website: www.atliq.com
+
 # Week 3:
 ## E-mail #1: Feature List
 <p align="justify">The task is to create a feature list based on the email provided below from the client and a sample feature list.The email contains project requirements which need to be analyzed and included in the feature list. The sample feature list available in the download section serves as a reference for the created feature list.The created feature list must capture all the mentioned features and include relevant details.</p>
