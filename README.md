@@ -201,7 +201,7 @@ Your task is to analyze the dashboard and provide insights on a ppt that address
 
 Of course, you can check with your seniors as usual.</p><br>
 
-<b>Preview of the dashboard:</b><br><br>
+<b>Preview of the dashboard:</b><br>
 <p align="center"><img width="780" height="500" alt="image" src="https://github.com/user-attachments/assets/0bc29f85-2354-48db-9530-6785f6b86975"/></p><br>
 
 Looking forward to your best!<br>
