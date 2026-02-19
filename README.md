@@ -198,9 +198,11 @@ Your task is to analyze the dashboard and provide insights on a ppt that address
  4. Is there any plan affected largely by the 5G launch? Should we continue or discontinue that plan?
  5. Is there any plan that is discontinued after the 5G launch? What is the reason for it?<br>
 <p align="justify">These are just initial questions to help you get started, and you are free to come up with new insights based on your analysis. You can also play around with the dashboard to get better insights.<br>
+
 Of course, you can check with your seniors as usual.</p><br>
+
 <b>Preview of the dashboard:</b><br><br>
-<p align="center"><img width="980" height="500" alt="image" src="https://github.com/user-attachments/assets/0bc29f85-2354-48db-9530-6785f6b86975"/></p><br>
+<p align="center"><img width="780" height="500" alt="image" src="https://github.com/user-attachments/assets/0bc29f85-2354-48db-9530-6785f6b86975"/></p><br>
 
 Looking forward to your best!<br>
 
