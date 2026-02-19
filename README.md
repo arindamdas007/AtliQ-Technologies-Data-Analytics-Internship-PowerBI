@@ -131,7 +131,7 @@ Attaching screenshots from a dummy report I created, which will give you a bette
 <b>Output Data</b><br>
 <p align="center"><img width="589" height="230" alt="image" src="https://github.com/user-attachments/assets/e4e46d65-45ee-4817-b8d6-82b71c1d1cc2" /></p>
 
-<p align="center"><img width="595" height="166" alt="image" src="https://github.com/user-attachments/assets/f278cbac-d06d-4d31-b962-ac21f03fe943" /></p>
+<p align="center"><img width="595" height="230" alt="image" src="https://github.com/user-attachments/assets/f278cbac-d06d-4d31-b962-ac21f03fe943" /></p>
 
 Feel free to ask your seniors for any questions!
 
