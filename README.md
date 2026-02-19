@@ -144,6 +144,21 @@ Website: www.atliq.com
 
 ## Solution:
 Tool Used: Power BI <br>
+<h2>Email #2</h2>
+<h3>SQL Query Debugging</h3>
+<b>Arindam Das,</b><br><br>
+<b></b>Arindam Das!</b><br>
+
+<p align="justify">I’m struggling with something and need your help. We have some SQL queries created by our previous interns, and it seems they were not debugged. Can you debug them?</p><br>
+
+<p align="justify">I've provided you with the necessary files to get started. Please download the 'gdb080.sql' file and load it into your MySQL Workbench. You can then open the 'sql_queries.docx' file to view the list of queries that you need to debug. Each query has some errors that need to be identified and fixed. Please ensure that you test each query thoroughly after fixing the errors.</p><br>
+
+<p align="justify">This task is urgent – please complete it as soon as possible.</p><br><br>
+Best regards,<br>
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/378d3268-5180-4ac7-95e6-1790228879db" /><br>
+<b>Hemanand Vadivel</b><br>
+Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
+Website: www.atliq.com
 
 # Week 3:
 ## E-mail #1: Feature List
