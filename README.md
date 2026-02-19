@@ -103,13 +103,6 @@ Best regards,<br>
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
 Website: www.atliq.com
 
-<h2>E-mail #3: Insights Presentation</h2>
-<b>Arindam Das,</b><br><br>
-
-I’m sending the details to you as discussed in the call.<br>
-
-You need to create a presentation from the dashboard for our telecom client <b>'wavecon'</b>.<br>
-
 <h1>WEEK 2:</h1>
 <h2>E-mail #1: Create This Variance Report</h2>
 <h3>Variance Analysis</h3>
@@ -190,6 +183,13 @@ Website: www.atliq.com
 
 ## Solution:
 Tool Used: Excel <br>
+
+<h2>E-mail #4: Insights Presentation</h2>
+<b>Arindam Das,</b><br><br>
+
+I’m sending the details to you as discussed in the call.<br>
+
+You need to create a presentation from the dashboard for our telecom client <b>'wavecon'</b>.<br>
 
 # Week 3:
 ## E-mail #1: Feature List
