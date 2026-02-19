@@ -1,0 +1,24 @@
+﻿// DAX Query
+DEFINE
+	VAR __DS0Core = 
+		SUMMARIZECOLUMNS(
+			'dim_customer'[Age Group],
+			"Total_Revenue", 'Measures List'[Total Revenue],
+			"Total_Customers", 'Measures List'[Total Customers]
+		)
+
+	VAR __DS0PrimaryWindowed = 
+		TOPN(501, __DS0Core, [Total_Revenue], 0, 'dim_customer'[Age Group], 1)
+
+EVALUATE
+	GROUPBY(
+		__DS0Core,
+		"MinTotal_Customers", MINX(CURRENTGROUP(), [Total_Customers]),
+		"MaxTotal_Customers", MAXX(CURRENTGROUP(), [Total_Customers])
+	)
+
+EVALUATE
+	__DS0PrimaryWindowed
+
+ORDER BY
+	[Total_Revenue] DESC, 'dim_customer'[Age Group]
