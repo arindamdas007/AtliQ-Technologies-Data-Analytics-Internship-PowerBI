@@ -257,8 +257,7 @@ Business Analyst | Shield Insurance
 <p align="justify">Description: As part of the project team, you will be responsible for sending the latest project update and mockup to the client for confirmation. This will involve ensuring that the update and mockup accurately reflect the project's progress and are presented in a clear and professional manner. Once sent, you will be responsible for following up with the client to ensure that their feedback is received and addressed in a timely manner. This task requires excellent communication skills and attention to detail to ensure that the project stays on track and the client's expectations are met.</p>
 
 FYI: You can provide an update on the project status in the designated box, and attach the mockup in PDF format to your submission..
-## Solution:
-Tool: MS-Powerpoint
+
 
 Hello Mathew,
 
@@ -279,6 +278,9 @@ Please review the attached mockup and let me know if there are any changes or ad
 Looking forward to your feedback.
 
 Best regards, Arindam
+
+## Solution:
+Tool: MS-Powerpoint
 
 ## E-mail #3: Mock-Up Feedback
 <b>Arindam Das!</b>
