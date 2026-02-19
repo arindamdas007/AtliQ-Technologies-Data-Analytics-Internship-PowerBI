@@ -153,7 +153,7 @@ Tool Used: Power BI <br>
 
 <p align="justify">I've provided you with the necessary files to get started. Please download the 'gdb080.sql' file and load it into your MySQL Workbench. You can then open the 'sql_queries.docx' file to view the list of queries that you need to debug. Each query has some errors that need to be identified and fixed. Please ensure that you test each query thoroughly after fixing the errors.</p><br>
 
-<p align="justify">This task is urgent – please complete it as soon as possible.</p><br><br>
+<p align="justify">This task is urgent – please complete it as soon as possible.</p><br>
 Best regards,<br>
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/378d3268-5180-4ac7-95e6-1790228879db" /><br>
 <b>Hemanand Vadivel</b><br>
@@ -162,6 +162,30 @@ Website: www.atliq.com
 
 ## Solution:
 Tool Used: MySQL <br>
+
+<h2>Email #3</h2>
+<h3>Report Automation</h3>
+<b></b>Arindam Das,</b><br><br>
+
+I have a quick ad-hoc task for you.
+
+<p align="justify">One of our clients in the Network services domain is currently creating a weekly report manually. This process can be automated, and we can help them save time.</p><br>
+
+<p align="justify">I've provided you with two Excel sheets - "network_data.csv" and "activity_data.csv", containing data related to our client's network operations. Your task is to use Power Query to manipulate and transform the data from these files and create a new table that meets the specified format.</p><br>
+
+<p align="justify">To achieve the desired format, you'll need to use a variety of Power Query techniques, such as pivoting, transforming, merging, and manipulating headers.</p><br>
+
+<b>Input Data</b><br>
+<p align="center"><img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/986a0c83-2085-4c3b-b609-cf8c50fb3e1c" /></p><br>
+<b>Output Data</b>b><br>
+<p align="center"><img width="500" height="202" alt="image" src="https://github.com/user-attachments/assets/f0fb27da-4c76-477b-9083-12a99e2d4c09" /></p><br>
+<p align="justify">Please complete this task as soon as possible. If you need any assistance, feel free to reach out to your seniors.</p><br>
+
+Best regards,<br>
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/378d3268-5180-4ac7-95e6-1790228879db" /><br>
+<b>Hemanand Vadivel</b><br>
+Head of Data Analytics | AtliQ Technologies Pvt. Ltd.<br>
+Website: www.atliq.com
 
 # Week 3:
 ## E-mail #1: Feature List
