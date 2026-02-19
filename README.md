@@ -146,7 +146,6 @@ Website: www.atliq.com
 Tool Used: Power BI <br>
 <h2>Email #2</h2>
 <h3>SQL Query Debugging</h3>
-<b>Arindam Das,</b><br><br>
 <b></b>Arindam Das!</b><br>
 
 <p align="justify">I’m struggling with something and need your help. We have some SQL queries created by our previous interns, and it seems they were not debugged. Can you debug them?</p><br>
@@ -163,7 +162,7 @@ Tool Used: MySQL <br>
 
 <h2>Email #3</h2>
 <h3>Report Automation</h3>
-<b></b>Arindam Das,</b><br><br>
+<b>Arindam Das,</b><br><br>
 
 I have a quick ad-hoc task for you.
 
